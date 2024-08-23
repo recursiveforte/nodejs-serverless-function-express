@@ -1,2 +1,0 @@
-vc-domain-verify=www.greenmountainrobotics.org,d9964bff32d83484ff7c
-vc-domain-verify=greenmountainrobotics.org,9aa791c9ec9a42b93c57
